@@ -2,7 +2,7 @@
 
 Uma aplicação web baseada em Vue.js projetada para gerenciar e jogar jogos de cartas. Este projeto é construído com Vuetify para componentes de UI e inclui um backend para gerenciamento de dados.
 
-## Projeto antigo
+ Projeto antigo
 
 ## Recursos
 
