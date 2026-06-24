@@ -5,7 +5,7 @@ Uma aplicação web baseada em Vue.js projetada para gerenciar e jogar jogos de 
  ![Projeto antigohttps://img.shields.io/badge/Status-Projeto%20Antigo-red](https://img.shields.io/badge/Status-Projeto%20Antigo-red)
 
 
-## Recursos
+## Recursos /
 
   Interface amigável construída com Vuetify.
 
